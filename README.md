@@ -7,6 +7,11 @@ La sección censal es una delimitación geográfica que en España se utiliza pa
 
 Varias secciones censales se agrupan en distritos. Los distritos se agrupan en municipios y los municipios en provincias. Finalmente las provincias forman las comunidades autónomas por lo que es posible construir todas las divisiones geográficas a partir de las secciones censales.
 
+Nomenclatura
+
+Diferencia entre códigos postales y códigos de municipio.
+
+
 ![Imagen](https://raw.githubusercontent.com/Nordlingen21/ModelOfSpain/Assets/Ejemplo.PNG)
 
 
