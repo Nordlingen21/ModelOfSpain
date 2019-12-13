@@ -12,7 +12,7 @@ Nomenclatura
 Diferencia entre códigos postales y códigos de municipio.
 
 
-![Imagen](https://raw.githubusercontent.com/Nordlingen21/ModelOfSpain/Master/Assets/Ejemplo.PNG)
+![Imagen](https://raw.githubusercontent.com/Nordlingen21/ModelOfSpain/master/Assets/Ejemplo.PNG)
 
 
 
