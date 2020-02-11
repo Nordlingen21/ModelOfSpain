@@ -42,16 +42,20 @@ Por cierto, históricamente el dígito X de correos tomaba el valor 0 en las cap
 
 Próximamente subiré un proyecto en Qgis, un software cartográfico open source, donde acceder tanto a la geometría de las secciones censales como a diferentes indicadores.
 
-Puedes instalar Qgis desde este [enlace][Qgis download].
+Puedes instalar Qgis desde [este enlace][Qgis download].
 
 [Qgis download]: https://www.qgis.org/es/site/forusers/download.html
 
 ## Fuentes:
 
-Puedes descargar la información de las secciones censales directamente desde la web del INE [aquí][SC].
+Puedes descargar la información de las secciones censales directamente desde la [web del INE aquí][SC].
+
+El callejero lo puedes obtener en la misma [web del INE aquí][SC].
 
 [SC]: https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
 
 Renta por sección censal
 
 Censo por sección censal
+
+
