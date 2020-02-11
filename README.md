@@ -26,7 +26,16 @@ Tanto los códigos postales que gestiona Correos como los identificadores de mun
 
 Ahí acaban las similitudes.
 
-En el caso de Correos los 3 siguientes dígitos son un identificador de una ruta postal, que no se genera con ningún criterio de población o extensión. Sólo busca optimizar la ruta que recorre el cartero cuando hace el reparto.
+En el caso de Correos los 3 siguientes dígitos a los que llamaremos XRR son un identificador de una ruta postal, que no se genera con ningún criterio de población o extensión. Sólo busca optimizar la ruta que recorre el cartero cuando hace el reparto.
+
+En cambio el INE utiliza los dígitos MMM para identificar los municipios. Esto supone que el 28015 puede correspondes a:
+
+- Un código postal de madrid capital.
+- Un código INE que corresponde a un municipio de la provincia de Madrid.
+
+Es decir, correos utiliza PPXRR y el INE, si nos limitamos a la parte municipal de su codificación utiliza PPMMM.
+
+Por cierto, históricamente el dígito X de correos tomaba el valor 0 en las capitales de provincia y 1, 2, 3... en el resto. Por eso el Código Postal 28015 tiene que estar situado en el Madrid capital.
 
 
 ## Proyecto de QGIS
