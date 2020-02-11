@@ -14,6 +14,8 @@ Varias secciones censales se agrupan en distritos. Los distritos se agrupan en m
 
 ![Renta de cada hogar por sección censal en Alcobendas](/Assets/Ejemplo.PNG)
 
+## Proyecto de QGIS
+
 ##Fuentes:
 
 Geografía de las secciones censales.
