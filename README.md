@@ -54,8 +54,12 @@ El callejero lo puedes obtener en la misma [web del INE aquí][SC].
 
 [SC]: https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
 
-Renta por sección censal
+La renta por sección censal está disponible como estadística experimental en esta [otra web del INE][Atlas renta].
 
-Censo por sección censal
+[Atlas renta]: https://www.ine.es/experimental/experimental.htm
+
+Los datos del censo de 2011 los puedes descargar en [otra página más del INE][Censo].
+
+[Censo]: https://www.ine.es/censos2011_datos/cen11_datos_microdatos.htm
 
 
