@@ -44,9 +44,11 @@ Próximamente subiré un proyecto en Qgis, un software cartográfico open source
 
 ## Fuentes:
 
-Puedes descargar la información de las secciones censales directamente desde la web del INE [aquí][SC]
+Puedes descargar la información de las secciones censales directamente desde la web del INE [aquí][SC].
 
 [SC]: https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
+
+![Desplegable descarga cartografía secciones censales INE](/Assets/INE link carto.PNG)
 
 Renta por sección censal
 
