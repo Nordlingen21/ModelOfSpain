@@ -35,14 +35,18 @@ En cambio el INE utiliza los dígitos MMM para identificar los municipios. Esto 
 
 Es decir, correos utiliza PPXRR y el INE, si nos limitamos a la parte municipal de su codificación utiliza PPMMM.
 
-Por cierto, históricamente el dígito X de correos tomaba el valor 0 en las capitales de provincia y 1, 2, 3... en el resto. Por eso el Código Postal 28015 tiene que estar situado en el Madrid capital.
+Por cierto, históricamente el dígito X de correos tomaba el valor 0 en las capitales de provincia y 1, 2, 3... en el resto. Por eso el Código Postal 28015 tiene que estar situado en Madrid capital.
 
 
 ## Proyecto de QGIS
 
-##Fuentes:
+Próximamente subiré un proyecto en Qgis, un software cartográfico open source, donde acceder tanto a la geometría de las secciones censales como a diferentes indicadores.
 
-Geografía de las secciones censales.
+## Fuentes:
+
+Puedes descargar la información de las secciones censales directamente desde la web del INE [aquí][SC]
+
+[SC]: https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259952026632&p=1259952026632&pagename=ProductosYServicios%2FPYSLayout
 
 Renta por sección censal
 
